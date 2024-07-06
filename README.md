@@ -1,6 +1,6 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
-![Demo App](https://ibb.co/n10zg3s)
+![Screenshot 2024-07-06 084809](https://github.com/RohanVishwakarma001/slyder-chat-app/assets/112305373/953ba57b-e7df-4ecf-8342-95dfe37f7fb0)
 
 Some Features:
 
